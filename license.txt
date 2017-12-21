@@ -1,1 +1,5 @@
 ﻿哈哈哈
+第一次
+My stupid boss still prefers SVN.
+https://gitee.com/zjyismine
+git remote add origin git@github.com:Jay1998/learngit.git
